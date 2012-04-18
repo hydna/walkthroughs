@@ -4,7 +4,7 @@
 
 ##Tartarus##
 
-![Forum running on Iphone](poster.jpg)
+![Tartarus](poster.jpg)
 
 ###What is it?###
 Tartarus is a multi-user environment, where users can interact with each other via chat messages. It uses HTML5 canvas to draw the world and hydna for communication between the clients.
