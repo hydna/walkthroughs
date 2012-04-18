@@ -9,7 +9,7 @@
 ###What is it?###
 Tartarus is a multi-user environment, where users can interact with each other via chat messages. It uses HTML5 canvas to draw the world and hydna for communication between the clients.
 
-[Try it out](http://hydna.github.com/tartarus)
+[Try it out](http://hydna.github.com/tartarus) or [Check out the source](http://www.github.com/hydna/tartarus)
 
 
 ##Setup##
